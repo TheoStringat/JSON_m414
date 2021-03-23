@@ -1,0 +1,14 @@
+[
+  {
+    "nom" : "François Hollande",
+    "age" : 66,
+    "periode" : "du 15 mai 2012 au 14 mai 2017",
+    "description" : "François Hollande, né le 12 août 1954 à Rouen, est un haut fonctionnaire et homme d'État français. Il est président de la République française du 15 mai 2012 au 14 mai 2017."
+  },
+  {
+    "nom" : "Emmanuel Macron",
+    "age" : 43,
+    "periode" : "du 14 mai 2017 à aujourd'hui",
+    "description" : "Emmanuel Macron (né le 21 décembre 1977) est un homme d'État français. Il est le 25e président de la République française depuis le 14 mai 2017."
+  }
+]
