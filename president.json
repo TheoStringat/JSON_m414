@@ -1,5 +1,11 @@
 [
   {
+    "nom" : "Nicolas Sarkozy",
+    "age" : 66,
+    "periode" : "Du 16 mai 2007 au 15 mai 2012.",
+    "description" : "Nicolas Sarkozy, né le 28 janvier 1955 à Paris est un homme d'état français. Il est adôpte une idéologie dite 'sécuritaire' et de tolérance zéro."
+  },
+  {
     "nom" : "François Hollande",
     "age" : 66,
     "periode" : "du 15 mai 2012 au 14 mai 2017",
